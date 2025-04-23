@@ -1,0 +1,1 @@
+<!-- Functions to facilitate common database operations, such as executing queries and preparing data. -->

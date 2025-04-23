@@ -1,0 +1,1 @@
+<!-- Product model, with fields such as name, price, stock, etc. -->

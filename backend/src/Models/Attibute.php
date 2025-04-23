@@ -1,0 +1,1 @@
+<!-- Represents specific attributes of each product (e.g. size, color). -->

@@ -1,0 +1,1 @@
+<!-- Environment variables such as database credentials and other general settings. -->

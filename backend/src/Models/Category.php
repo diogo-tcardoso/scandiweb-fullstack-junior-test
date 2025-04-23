@@ -1,0 +1,1 @@
+<!-- Represents the category model, with specific attributes such as name and description. -->

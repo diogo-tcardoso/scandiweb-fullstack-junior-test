@@ -1,0 +1,1 @@
+<!-- Helper functions for GraphQL manipulation (e.g. type transformation or response formatting). -->
